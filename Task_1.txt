@@ -1,0 +1,1 @@
+Git commit is used to save changes in a repository and keep track of project history and easy to understand .
